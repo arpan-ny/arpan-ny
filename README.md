@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpan (@arpan-ny)
 
-- 🌱 I’m currently learning ... Python, Machine Learning
+- 🌱 I’m currently learning ... Java, Python, Machine Learning
 - 💞️ I’m looking to collaborate on ... ML projects.
 - 📫 How to reach me - nyati.arpan@gmail.com
 
